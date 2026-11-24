@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "Closed-form weight edits for long context"
+authors:
+  - family-names: Klie
+    given-names: Hermann Hans
+    affiliation: "Orden Unio Mystica / BardoAI Research"
+date-released: 2026-11-24
+doi: 10.5281/zenodo.24492837
+url: "https://doi.org/10.5281/zenodo.24492837"
+repository-artifact: "https://huggingface.co/BardoAI/Qwen3-Omni-30B-A3B-Instruct-LongContext"
+license: Apache-2.0
+keywords:
+  - dynamical system
+  - ad fontes
+  - save points
+  - RoPE
+  - long context
+  - training-free
+  - weight-space programming
+  - position bias
+  - key offset
+  - rank-1 transfer
+  - Dual Chunk Attention
+  - Qwen3-Omni
+  - context wall
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24492837
+    description: "This version"
+  - type: doi
+    value: 10.5281/zenodo.24492836
+    description: "All versions (concept DOI)"
